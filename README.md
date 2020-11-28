@@ -7,7 +7,7 @@ My name is Gabriel :) <br>
   <img alt="Subreddit subscribers" src="https://img.shields.io/reddit/subreddit-subscribers/GDevelop?color=%23ff4500&label=Reddit&logo=reddit&logoColor=%23ff4500&style=flat-square">
 </a>
 <a href="https://discord.gg/bTdu5sr">
-<img alt="Discord" src="https://img.shields.io/discord/712570994690359297?label=Discord&logo=discord&style=flat-square">
+<img alt="Discord" src="https://img.shields.io/discord/712570994690359297?color=%237289da&label=Discord&logo=discord&style=flat-square">
 </a>
 
 
