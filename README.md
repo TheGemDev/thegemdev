@@ -9,6 +9,7 @@ My name is Gabriel :) <br>
 <a href="https://discord.gg/bTdu5sr">
 <img alt="Discord" src="https://img.shields.io/discord/712570994690359297?color=%237289da&label=Discord&logo=discord&style=flat-square">
 </a>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheGemDev.id)
 
 
 
