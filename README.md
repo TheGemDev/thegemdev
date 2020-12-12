@@ -11,5 +11,7 @@ My name is Gabriel :) <br>
 </a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheGemDev.id)
 
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=TheGemDev&hide=["issues"]&show_icons=true)
+
 
 
